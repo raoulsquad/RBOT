@@ -6,4 +6,4 @@ Client.on('ready', () => {
     console.log(`${Client.user.tag} is online!`)
 })
 
-Client.login("OTE5NjQ5MzUzMDc1OTI5MTQ4.YbY4NA.jmRnR4V9gxzja5m3_d2sBDp43VU");
+Client.login("Cant do that in here");
